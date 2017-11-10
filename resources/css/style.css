@@ -8,7 +8,12 @@ h1 {
   font-weight: bold;
   }
 
-.header {
+#header {
   background-image: url("../images/the-flatiron-building.png");
-  color: blue;
+  color: white;
+}
+
+a {
+  color: white;
+  font-size: 18px;
 }
